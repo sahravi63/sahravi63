@@ -42,7 +42,7 @@
 <h3 align="center">Projects & Contributions:</h3>
 <p align="center">🚀 Check out my top projects:</p>
 <ul>
-  <li><a href="https://github.com/sahravi63/Yoga-e-commerce">Movie Recommendation System</a> - is a Python-based web application built with Streamlit that suggests movies based on user
+  <li><a href="https://github.com/sahravi63/Movie-Recommendation-System">Movie Recommendation System</a> - is a Python-based web application built with Streamlit that suggests movies based on user
 preferences using machine learning.</li>
   <li><a href="https://github.com/sahravi63/CAD-Prediction">Coronary Artery Disease Prediction</a> - AI/ML-based heart disease prediction using ECG & clinical data.</li>
 </ul>
