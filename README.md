@@ -24,7 +24,7 @@
 - 🔭 Currently working on **Drug Management System**
 - 🌱 Learning **AI/ML, PyTorch, TensorFlow, Flask**
 - 👨‍💻 Check out my projects: [My Portfolio](https://ravi-sah-portfolio.vercel.app/)
-- 📫 Contact me: **sahravi63@gmail.com**
+- 📫 Contact me: **rsahravi57@gmail.com**
 - 📄 Know more: [My Resume](https://drive.google.com/file/d/1tOtQGvaQnRA6fu4GMOUK0uSHeQfJ2HG-/view?usp=sharing)
 
 ---
