@@ -35,7 +35,7 @@
   <a href="https://www.facebook.com/profile.php?id=100009781384448" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/sahravi63" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/gang_kitten_35" target="blank"><img src="https://img.shields.io/badge/CodeChef-%23A8B9CC.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/@rs5982" target="blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/rs5982" target="blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
